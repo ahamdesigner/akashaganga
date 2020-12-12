@@ -1,2 +1,2 @@
 # akashaganga
-universal database import nessessory consiousness
+universal database import consiousness
