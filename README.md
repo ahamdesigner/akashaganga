@@ -1,4 +1,4 @@
-# akashaganga
-universal database import consiousness
-#Connect
-connect with zero
+# आकाशगङ्गा
+सार्वत्रिक सक्रियदत्तांशनिधि आयापयति चेतस्
+# श्रथयति
+श्रथयति
